@@ -1,0 +1,6 @@
+1. For creating a new gatsby project: gatsby new app_name
+2. For running the serve: gatsby develop
+3. For changing the title of the app:
+    a. comment the title in gatsby-config.js file
+    b. change the title in index.js in SEO
+4. 
