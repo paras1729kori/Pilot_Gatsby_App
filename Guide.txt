@@ -3,4 +3,7 @@
 3. For changing the title of the app:
     a. comment the title in gatsby-config.js file
     b. change the title in index.js in SEO
-4. 
+4. Last but not least use a version control for saving your data
+
+Important Note:
+To always close tags
